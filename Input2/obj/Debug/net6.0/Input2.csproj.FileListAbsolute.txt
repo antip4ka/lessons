@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input2\bin\Debug\net6.0\Input2.exe
+C:\Users\Darhan\source\repos\Input2\bin\Debug\net6.0\Input2.deps.json
+C:\Users\Darhan\source\repos\Input2\bin\Debug\net6.0\Input2.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input2\bin\Debug\net6.0\Input2.dll
+C:\Users\Darhan\source\repos\Input2\bin\Debug\net6.0\Input2.pdb
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.dll
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\refint\Input2.dll
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.pdb
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\Input2.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input2\obj\Debug\net6.0\ref\Input2.dll

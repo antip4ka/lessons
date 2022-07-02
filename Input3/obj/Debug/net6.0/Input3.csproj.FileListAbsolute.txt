@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input3\bin\Debug\net6.0\Input3.exe
+C:\Users\Darhan\source\repos\Input3\bin\Debug\net6.0\Input3.deps.json
+C:\Users\Darhan\source\repos\Input3\bin\Debug\net6.0\Input3.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input3\bin\Debug\net6.0\Input3.dll
+C:\Users\Darhan\source\repos\Input3\bin\Debug\net6.0\Input3.pdb
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.dll
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\refint\Input3.dll
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.pdb
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\Input3.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input3\obj\Debug\net6.0\ref\Input3.dll
