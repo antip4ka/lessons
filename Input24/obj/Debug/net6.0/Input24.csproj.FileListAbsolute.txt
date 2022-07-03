@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input24\bin\Debug\net6.0\Input24.exe
+C:\Users\Darhan\source\repos\Input24\bin\Debug\net6.0\Input24.deps.json
+C:\Users\Darhan\source\repos\Input24\bin\Debug\net6.0\Input24.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input24\bin\Debug\net6.0\Input24.dll
+C:\Users\Darhan\source\repos\Input24\bin\Debug\net6.0\Input24.pdb
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.dll
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\refint\Input24.dll
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.pdb
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\Input24.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input24\obj\Debug\net6.0\ref\Input24.dll

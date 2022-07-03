@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input29\bin\Debug\net6.0\Input29.exe
+C:\Users\Darhan\source\repos\Input29\bin\Debug\net6.0\Input29.deps.json
+C:\Users\Darhan\source\repos\Input29\bin\Debug\net6.0\Input29.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input29\bin\Debug\net6.0\Input29.dll
+C:\Users\Darhan\source\repos\Input29\bin\Debug\net6.0\Input29.pdb
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.dll
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\refint\Input29.dll
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.pdb
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\Input29.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input29\obj\Debug\net6.0\ref\Input29.dll

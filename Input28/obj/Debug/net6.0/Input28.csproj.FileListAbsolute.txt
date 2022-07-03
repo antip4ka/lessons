@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input28\bin\Debug\net6.0\Input28.exe
+C:\Users\Darhan\source\repos\Input28\bin\Debug\net6.0\Input28.deps.json
+C:\Users\Darhan\source\repos\Input28\bin\Debug\net6.0\Input28.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input28\bin\Debug\net6.0\Input28.dll
+C:\Users\Darhan\source\repos\Input28\bin\Debug\net6.0\Input28.pdb
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.dll
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\refint\Input28.dll
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.pdb
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\Input28.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input28\obj\Debug\net6.0\ref\Input28.dll

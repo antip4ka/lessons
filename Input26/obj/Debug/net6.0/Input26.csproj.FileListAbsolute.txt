@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input26\bin\Debug\net6.0\Input26.exe
+C:\Users\Darhan\source\repos\Input26\bin\Debug\net6.0\Input26.deps.json
+C:\Users\Darhan\source\repos\Input26\bin\Debug\net6.0\Input26.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input26\bin\Debug\net6.0\Input26.dll
+C:\Users\Darhan\source\repos\Input26\bin\Debug\net6.0\Input26.pdb
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.dll
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\refint\Input26.dll
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.pdb
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\Input26.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input26\obj\Debug\net6.0\ref\Input26.dll

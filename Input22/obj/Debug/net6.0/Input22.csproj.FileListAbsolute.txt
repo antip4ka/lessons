@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input22\bin\Debug\net6.0\Input22.exe
+C:\Users\Darhan\source\repos\Input22\bin\Debug\net6.0\Input22.deps.json
+C:\Users\Darhan\source\repos\Input22\bin\Debug\net6.0\Input22.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input22\bin\Debug\net6.0\Input22.dll
+C:\Users\Darhan\source\repos\Input22\bin\Debug\net6.0\Input22.pdb
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.dll
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\refint\Input22.dll
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.pdb
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\Input22.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input22\obj\Debug\net6.0\ref\Input22.dll

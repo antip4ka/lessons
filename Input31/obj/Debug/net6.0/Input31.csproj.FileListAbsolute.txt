@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input31\bin\Debug\net6.0\Input31.exe
+C:\Users\Darhan\source\repos\Input31\bin\Debug\net6.0\Input31.deps.json
+C:\Users\Darhan\source\repos\Input31\bin\Debug\net6.0\Input31.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input31\bin\Debug\net6.0\Input31.dll
+C:\Users\Darhan\source\repos\Input31\bin\Debug\net6.0\Input31.pdb
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.dll
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\refint\Input31.dll
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.pdb
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\Input31.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input31\obj\Debug\net6.0\ref\Input31.dll
