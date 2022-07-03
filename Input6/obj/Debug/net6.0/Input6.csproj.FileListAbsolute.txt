@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input6\bin\Debug\net6.0\Input6.exe
+C:\Users\Darhan\source\repos\Input6\bin\Debug\net6.0\Input6.deps.json
+C:\Users\Darhan\source\repos\Input6\bin\Debug\net6.0\Input6.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input6\bin\Debug\net6.0\Input6.dll
+C:\Users\Darhan\source\repos\Input6\bin\Debug\net6.0\Input6.pdb
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.dll
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\refint\Input6.dll
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.pdb
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\Input6.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input6\obj\Debug\net6.0\ref\Input6.dll

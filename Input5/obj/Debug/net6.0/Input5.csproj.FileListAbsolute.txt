@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input5\bin\Debug\net6.0\Input5.exe
+C:\Users\Darhan\source\repos\Input5\bin\Debug\net6.0\Input5.deps.json
+C:\Users\Darhan\source\repos\Input5\bin\Debug\net6.0\Input5.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input5\bin\Debug\net6.0\Input5.dll
+C:\Users\Darhan\source\repos\Input5\bin\Debug\net6.0\Input5.pdb
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.dll
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\refint\Input5.dll
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.pdb
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\Input5.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input5\obj\Debug\net6.0\ref\Input5.dll

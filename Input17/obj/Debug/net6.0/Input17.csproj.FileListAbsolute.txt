@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input17\bin\Debug\net6.0\Input17.exe
+C:\Users\Darhan\source\repos\Input17\bin\Debug\net6.0\Input17.deps.json
+C:\Users\Darhan\source\repos\Input17\bin\Debug\net6.0\Input17.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input17\bin\Debug\net6.0\Input17.dll
+C:\Users\Darhan\source\repos\Input17\bin\Debug\net6.0\Input17.pdb
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.dll
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\refint\Input17.dll
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.pdb
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\Input17.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input17\obj\Debug\net6.0\ref\Input17.dll

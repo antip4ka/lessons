@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input13\bin\Debug\net6.0\Input13.exe
+C:\Users\Darhan\source\repos\Input13\bin\Debug\net6.0\Input13.deps.json
+C:\Users\Darhan\source\repos\Input13\bin\Debug\net6.0\Input13.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input13\bin\Debug\net6.0\Input13.dll
+C:\Users\Darhan\source\repos\Input13\bin\Debug\net6.0\Input13.pdb
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.dll
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\refint\Input13.dll
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.pdb
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\Input13.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input13\obj\Debug\net6.0\ref\Input13.dll
