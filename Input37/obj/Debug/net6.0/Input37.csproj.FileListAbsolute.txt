@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input37\bin\Debug\net6.0\Input37.exe
+C:\Users\Darhan\source\repos\Input37\bin\Debug\net6.0\Input37.deps.json
+C:\Users\Darhan\source\repos\Input37\bin\Debug\net6.0\Input37.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input37\bin\Debug\net6.0\Input37.dll
+C:\Users\Darhan\source\repos\Input37\bin\Debug\net6.0\Input37.pdb
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.dll
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\refint\Input37.dll
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.pdb
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\Input37.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input37\obj\Debug\net6.0\ref\Input37.dll

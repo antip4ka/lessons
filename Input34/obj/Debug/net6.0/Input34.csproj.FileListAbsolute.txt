@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input34\bin\Debug\net6.0\Input34.exe
+C:\Users\Darhan\source\repos\Input34\bin\Debug\net6.0\Input34.deps.json
+C:\Users\Darhan\source\repos\Input34\bin\Debug\net6.0\Input34.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input34\bin\Debug\net6.0\Input34.dll
+C:\Users\Darhan\source\repos\Input34\bin\Debug\net6.0\Input34.pdb
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.dll
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\refint\Input34.dll
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.pdb
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\Input34.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input34\obj\Debug\net6.0\ref\Input34.dll

@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Input45\bin\Debug\net6.0\Input45.exe
+C:\Users\Darhan\source\repos\Input45\bin\Debug\net6.0\Input45.deps.json
+C:\Users\Darhan\source\repos\Input45\bin\Debug\net6.0\Input45.runtimeconfig.json
+C:\Users\Darhan\source\repos\Input45\bin\Debug\net6.0\Input45.dll
+C:\Users\Darhan\source\repos\Input45\bin\Debug\net6.0\Input45.pdb
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.dll
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\refint\Input45.dll
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.pdb
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\Input45.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Input45\obj\Debug\net6.0\ref\Input45.dll
