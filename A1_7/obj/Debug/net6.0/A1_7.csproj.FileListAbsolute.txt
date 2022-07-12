@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\A1_7\bin\Debug\net6.0\A1_7.exe
+C:\Users\Darhan\source\repos\A1_7\bin\Debug\net6.0\A1_7.deps.json
+C:\Users\Darhan\source\repos\A1_7\bin\Debug\net6.0\A1_7.runtimeconfig.json
+C:\Users\Darhan\source\repos\A1_7\bin\Debug\net6.0\A1_7.dll
+C:\Users\Darhan\source\repos\A1_7\bin\Debug\net6.0\A1_7.pdb
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.dll
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\refint\A1_7.dll
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.pdb
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\A1_7.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\A1_7\obj\Debug\net6.0\ref\A1_7.dll

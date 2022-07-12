@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\A1_1\bin\Debug\net6.0\A1_1.exe
+C:\Users\Darhan\source\repos\A1_1\bin\Debug\net6.0\A1_1.deps.json
+C:\Users\Darhan\source\repos\A1_1\bin\Debug\net6.0\A1_1.runtimeconfig.json
+C:\Users\Darhan\source\repos\A1_1\bin\Debug\net6.0\A1_1.dll
+C:\Users\Darhan\source\repos\A1_1\bin\Debug\net6.0\A1_1.pdb
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.dll
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\refint\A1_1.dll
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.pdb
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\A1_1.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\A1_1\obj\Debug\net6.0\ref\A1_1.dll
